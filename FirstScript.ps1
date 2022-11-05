@@ -1,2 +1,2 @@
 #Begin##
-show-command get-process
+show-command get-process -Verbose
