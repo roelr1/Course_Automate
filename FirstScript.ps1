@@ -1,2 +1,2 @@
 #Begin##
-get-process
+show-command get-process
