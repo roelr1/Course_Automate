@@ -1,0 +1,4 @@
+# Set default location for working with files and folder @root folder
+Set-Location $PSScriptRoot
+
+# list
