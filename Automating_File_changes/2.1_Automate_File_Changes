@@ -2,3 +2,5 @@
 Set-Location $PSScriptRoot
 
 # list
+
+Get-ChildItem -Path .\Course_Automate\Automating_File_changes\images\*.jpg
